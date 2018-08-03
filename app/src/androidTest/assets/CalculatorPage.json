@@ -1,0 +1,65 @@
+{
+  "btn0": {
+      "ANDROID": "withtext=0"
+  },
+  "btn1": {
+    "ANDROID": "withtext=1"
+  },
+  "btn2": {
+    "ANDROID": "withid=btn_2"
+  },
+  "btn3": {
+    "ANDROID": "withtext=3"
+  },
+  "btn4": {
+    "ANDROID": "withtext=4"
+  },
+  "btn5": {
+    "ANDROID": "withtext=5"
+  },
+  "btn6": {
+    "ANDROID": "withtext=6"
+  },
+  "btn7": {
+    "ANDROID": "withtext=7"
+  },
+  "btn8": {
+    "ANDROID": "withtext=8"
+  },
+  "btn9": {
+    "ANDROID": "withtext=9"
+  },
+  "btnMinus": {
+    "ANDROID": "withtext=MIN"
+  },
+  "btnDecimal": {
+    "ANDROID": "withtext=DEC"
+  },
+  "btnPlus": {
+    "ANDROID": "withtext=PLUS"
+  },
+  "btnEqual": {
+    "ANDROID": "withtext=EQ"
+  },
+  "btnMultiply": {
+    "ANDROID": "withtext=MUL"
+  },
+  "btnDivide": {
+    "ANDROID": "withtext=DIV"
+  },
+  "btnPercentage": {
+    "ANDROID": "withtext=PER"
+  },
+  "btnPower": {
+    "ANDROID": "withtext=POW"
+  },
+  "btnRoot": {
+    "ANDROID": "withtext=RT"
+  },
+  "btnClear": {
+    "ANDROID": "withtext=C"
+  },
+  "btnResult": {
+    "ANDROID": "WITHDESCRIPTION=result"
+  }
+}
